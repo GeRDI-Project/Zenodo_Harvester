@@ -1,1 +1,1 @@
-{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"https://zenodo.org/oai2d","type":"StringParameter"},{"key":"metadataPrefix","value":"datacite4","type":"StringParameter"}]}}
+{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"https://zenodo.org/oai2d","type":"StringParameter"},{"key":"logoUrl","value":"https://about.zenodo.org/static/img/logos/zenodo-white-200.png","type":"StringParameter"},{"key":"metadataPrefix","value":"datacite4","type":"StringParameter"}]}}
