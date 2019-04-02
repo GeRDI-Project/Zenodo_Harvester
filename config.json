@@ -1,1 +1,1 @@
-{"globalParameters":{},"harvesterParameters":{"from":"","until":"","hostUrl":"https://zenodo.org/oai2d","metadataPrefix":"datacite3"}}
+{"globalParameters":{"persistCache": false},"harvesterParameters":{"from":"","until":"","hostUrl":"https://zenodo.org/oai2d","metadataPrefix":"datacite4"}}
