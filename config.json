@@ -1,1 +1,30 @@
-{"OaiPmhETL":{"parameters":[{"key":"hostUrl","value":"https://zenodo.org/oai2d","type":"StringParameter"},{"key":"logoUrl","value":"https://about.zenodo.org/static/img/logos/zenodo-white-200.png","type":"StringParameter"},{"key":"metadataPrefix","value":"datacite4","type":"StringParameter"}]}}
+{
+    "OaiPmhETL": {
+        "parameters": [
+            {
+                "key": "hostUrl",
+                "type": "StringParameter",
+                "value": "https://zenodo.org/oai2d"
+            },
+            {
+                "key": "logoUrl",
+                "type": "StringParameter",
+                "value": "https://about.zenodo.org/static/img/logos/zenodo-black-200.png"
+            },
+            {
+                "key": "metadataPrefix",
+                "type": "StringParameter",
+                "value": "datacite4"
+            }
+        ]
+    },
+    "Submission": {
+        "parameters": [
+            {
+                "key": "url",
+                "type": "StringParameter",
+                "value": "http://elasticsearch-data.default.svc.cluster.local:9200/gerdi/metadata"
+            }
+        ]
+    }
+}
